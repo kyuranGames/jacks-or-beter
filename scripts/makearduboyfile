@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp .pioenvs/leonardo/firmware.hex arduboy/jacksorbetter.hex
+
+zip -j jacksorbetter.arduboy arduboy/*

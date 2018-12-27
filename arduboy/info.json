@@ -1,0 +1,35 @@
+﻿{
+	"schemaVersion": 2,
+	"title": "Jacks Or Better",
+	"description": "A new twist on the breakout concept! You must break out each brick, depending on your current brick mode. There are 50 levels included, and each one is an increasingly harder puzzle to solve.",
+	"author": "RedBug",
+	"version": "0.1",
+	"date": "2017-04-27",
+	"genre": "Card",
+	"publisher": "Kyuran",
+	"code": "RedBug",
+	"art": "RedBug",
+	"url": "http://www.kyuran.be/",
+	"sourceUrl": "https://github.com/kyuranGames/jacksorbetter",
+	"email": "arduboy@kyuran.be",
+	"banner": "banner.png",
+	"binaries": [{
+		"title": "jacksorbetter",
+		"filename": "jacksorbetter.hex",
+		"device": "Arduboy"
+	}],
+	"screenshots": [{
+			"title": "Title",
+			"filename": "screen_1.png"
+		},
+		{
+			"title": "InGame",
+			"filename": "screen_2.png"
+		}
+	],
+	"eeprom": {
+		"variable": false,
+		"start": 0,
+		"end": 0
+	}
+}
